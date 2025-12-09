@@ -2,6 +2,8 @@
 
 This is an extension to display EOL (new line) characters in your code.
 
+Based on [sohamkamani/code-eol](https://github.com/sohamkamani/code-eol)
+
 Supports `\n`, `\r\n`, and `\r` returns
 
 **Sample with LF**
