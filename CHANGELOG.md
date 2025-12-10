@@ -2,6 +2,18 @@
 
 All notable changes to the "code-eol" extension will be documented in this file.
 
+## [1.0.1] - 2025-12-10
+
+### Changed
+- Updated version to 1.0.1
+
+## [1.0.0] - 2025-12-10
+
+### Changed
+- Renamed extension from `code-eol` to `vs-code-eol`
+- Changed display name to `vs-code-eol`
+- Updated repository URL to https://github.com/skwonandy/code-eol
+
 ## [0.3.3] - 2025-12-09
 
 ### Changed

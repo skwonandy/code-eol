@@ -1,12 +1,12 @@
 {
-	"name": "code-eol",
-	"displayName": "code-eol",
+	"name": "vs-code-eol",
+	"displayName": "vs-code-eol",
 	"description": "Display newline characters in your code",
-	"version": "0.3.3",
+	"version": "1.0.1",
 	"publisher": "skwonandy",
-	"icon": "default_icon_128.png",
+	"icon": "icon.png",
 	"repository": {
-		"url": "https://github.com/sohamkamani/code-eol"
+		"url": "https://github.com/skwonandy/code-eol"
 	},
 	"license": "MIT",
 	"engines": {
@@ -30,18 +30,24 @@
 	},
 	"devDependencies": {
 		"@types/node": "^14.18.63",
-		"@types/vscode": "^1.15.0"
+		"@types/vscode": "^1.15.0",
+		"@vscode/vsce": "^2.32.0"
 	},
 	"contributes": {
-		"configuration": [{
-			"type": "object",
-			"title": "code-eol Configuration",
-			"properties": {
-				"code-eol.color": {
-					"type": ["string", "null"],
-					"default": "#ccc"
+		"configuration": [
+			{
+				"type": "object",
+				"title": "code-eol Configuration",
+				"properties": {
+					"code-eol.color": {
+						"type": [
+							"string",
+							"null"
+						],
+						"default": "#ccc"
+					}
 				}
 			}
-		}]
+		]
 	}
 }
