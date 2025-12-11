@@ -2,6 +2,11 @@
 
 All notable changes to the "code-eol" extension will be documented in this file.
 
+## [1.0.2] - 2025-12-10
+
+### Added
+- Published to [Open VSX Registry](https://open-vsx.org/extension/skwonandy/vs-code-eol) for Cursor and other VS Code-compatible editors
+
 ## [1.0.1] - 2025-12-10
 
 ### Changed

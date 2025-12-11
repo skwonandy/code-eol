@@ -2,7 +2,7 @@
 	"name": "vs-code-eol",
 	"displayName": "vs-code-eol",
 	"description": "Display newline characters in your code",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "skwonandy",
 	"icon": "icon.png",
 	"repository": {
