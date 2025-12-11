@@ -5,3 +5,5 @@ typings/**
 .gitignore
 tsconfig.json
 vsc-extension-quickstart.md
+# Exclude entire TypeScript package (not used at runtime)
+node_modules/typescript/**

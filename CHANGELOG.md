@@ -2,6 +2,11 @@
 
 All notable changes to the "code-eol" extension will be documented in this file.
 
+## [1.0.3] - 2025-12-11
+
+### Changed
+- Reduced VSIX package size by excluding unnecessary TypeScript files (TypeScript is not used at runtime)
+
 ## [1.0.2] - 2025-12-10
 
 ### Added
